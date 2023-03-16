@@ -6,6 +6,7 @@ Semua sintaksis dasar bahasa pemrograman terdiri dari
 """
 
 # sequential
+
 print('Ibu berkata, "Pergi ke toko"')
 print('Budi Menjawab,"Baik apa yang harus saya lakukan di toko?"')
 print('Ibu Menjawab,"Beli Satu botol susu"')
