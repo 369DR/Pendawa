@@ -29,3 +29,4 @@ else:
 
 print("Budi Pulang ke rumah")
 print("Menyampaikan hasilnya kepada Ibu")
+>>>>>>>>> Temporary merge branch 2
