@@ -1,4 +1,4 @@
-daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dan for dad']
+daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dad poor dad']
 print("tampilkan varialbel daftar_buku")
 print(daftar_buku)
 
@@ -20,7 +20,7 @@ for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
 print("\nkembalikan nilai awal daftar buku")
-daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dan for dad']
+daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dad poor dad']
 print("\nTambahkan 1 buku baru")
 daftar_buku.append("The visual MBA")
 for i in range(0, len(daftar_buku)):
@@ -32,7 +32,7 @@ for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
 print("\nGanti elemen pertama")
-daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dan for dad']
+daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dad poor dad']
 daftar_buku[0] = "Eight Habits"
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
@@ -51,9 +51,7 @@ for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
 print("\npop -1 ")
-daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dan for dad']
+daftar_buku = ['Seven Habits','How to Influence People', 'First things First', 'Rich dad poor dad']
 daftar_buku.pop(-4)
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
-
-
